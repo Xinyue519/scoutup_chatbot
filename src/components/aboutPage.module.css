@@ -1,0 +1,10 @@
+.heading{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subtitle{
+    font-weight: bold; 
+    text-decoration: underline;
+}
